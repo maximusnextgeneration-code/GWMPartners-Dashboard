@@ -4,7 +4,7 @@ Dashboard mensual de los portafolios modelo de **GWM Partners** (Global Wealth M
 elaborado por **LATAM ConsultUs**.
 
 🔗 **Link para el cliente (siempre el mismo):**
-`https://<usuario>.github.io/GWMPartners-Dashboard/`
+<https://maximusnextgeneration-code.github.io/GWMPartners-Dashboard/>
 
 La página de inicio muestra **siempre el mes más reciente**. El cliente solo tiene que refrescar.
 
