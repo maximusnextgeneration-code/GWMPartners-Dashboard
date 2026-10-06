@@ -32,5 +32,6 @@ El HTML es **autocontenido** (fuentes, logo y datos embebidos): no depende de in
 
 ## Meses publicados
 
-- 08-2026 — agosto 2026 *(vigente)*
+- 09-2026 — septiembre 2026 *(vigente)*
+- 08-2026 — agosto 2026
 - 07-2026 — julio 2026
